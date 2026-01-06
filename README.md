@@ -41,7 +41,7 @@
   <a href="https://www.linkedin.com/in/hansi-herath-57b574275/" target="_blank">
     <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/Aruni Herath" target="_blank">
+  <a href="https://facebook.com/aruni.herath364" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/_hanshu_27" target="_blank">
