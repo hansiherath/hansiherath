@@ -2,6 +2,7 @@
 
 🚀 Passionate developer building innovative solutions | 📚 Lifelong learner | 💡 Transforming ideas into reality
 
+## About me
 ## 🛠 Languages and Technologies
 
 <p align="left">
@@ -34,10 +35,19 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </p>
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hansi-herath-57b574275/" target="_blank">
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/Aruni Herath" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/_hanshu_27" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  
 </p>
 
  
