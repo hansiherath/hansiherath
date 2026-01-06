@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hansi Herath </h1>
+## 🛠 Languages and Technologies
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,php,laravel,cs,dotnet,nodejs,mysql,mongodb,docker,git,github,aws,azure,tensorflow" />
+</p>
 <!--
 **hansiherath/hansiherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
