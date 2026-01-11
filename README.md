@@ -3,6 +3,12 @@
 🚀 Passionate developer building innovative solutions | 📚 Lifelong learner | 💡 Transforming ideas into reality
 
 ## About me
+I am an **IT undergraduate at Rajarata University of Sri Lanka** with a strong interest in **cybersecurity 🔐 and artificial intelligence 🤖.** I am committed to continuous learning and enjoy working on projects that strengthen secure system design, data-driven solutions, and modern application development.
+
+I actively seek challenges that help me grow technically and professionally 🚀, while developing practical skills in programming, cloud platforms ☁️, and emerging technologies. My goal is to contribute to impactful and ethical technology solutions through disciplined learning and hands-on experience.
+
+
+
 ## 🛠 Languages and Technologies
 
 <p align="left">
