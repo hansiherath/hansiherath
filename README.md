@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hansi Herath </h1>
 
-🚀 Passionate developer building innovative solutions | 📚 Lifelong learner | 💡 Transforming ideas into reality
 
-## About me
+<p align="center">
+🎓 IT undergraduate focused on secure and intelligent systems | 🚀 Learning through hands-on projects 
+</p>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="25"/> About Me
+
 I am an **IT undergraduate at Rajarata University of Sri Lanka** with a strong interest in **cybersecurity 🔐 and artificial intelligence 🤖.** I am committed to continuous learning and enjoy working on projects that strengthen secure system design, data-driven solutions, and modern application development.
 
 I actively seek challenges that help me grow technically and professionally 🚀, while developing practical skills in programming, cloud platforms ☁️, and emerging technologies. My goal is to contribute to impactful and ethical technology solutions through disciplined learning and hands-on experience.
@@ -57,17 +61,4 @@ I actively seek challenges that help me grow technically and professionally 🚀
 </p>
 
  
-<!--
-**hansiherath/hansiherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
